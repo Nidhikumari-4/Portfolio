@@ -3,7 +3,7 @@
 <h1>Personal Portfolio Website </h1>
 
 <h2>
-  <a href="https://nidhikumari.vercel.app/">/nidhikumari.vercel.app/</a>
+  <a href="https://nidhikumari.vercel.app/">nidhikumari.vercel.app</a>
 </h2>
 
 
