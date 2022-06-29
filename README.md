@@ -13,7 +13,6 @@
   </a>
 </div>
   
-  <br/>
 ⭐ Star this repo on GitHub — it helps!
 
 ## Features 📋
