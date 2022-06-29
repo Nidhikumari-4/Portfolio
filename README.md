@@ -1,4 +1,4 @@
-<!-- <div align="center"> -->
+<div align="center">
 
 <h1>Personal Portfolio Website </h1>
 
@@ -12,7 +12,7 @@
   <img width="2040" alt="Device - Macbook Air" src="https://user-images.githubusercontent.com/77065920/176469357-6bd74b0d-6206-494e-9296-f0b2edeab524.png">
   </a>
 </div>
-  
+  </div>
 ⭐ Star this repo on GitHub — it helps!
 
 ## Features 📋
