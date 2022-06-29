@@ -21,7 +21,7 @@
 ⚡️ Custom 3D CSS animations\
 ⚡️ Aimated Letters on hover\
 ⚡️ Interactive map view\
-⚡️ Functional Contact Form\
+⚡️ Functional Contact Form
   
 
 ## Sections 📚
@@ -30,7 +30,7 @@
 ✔️ About\
 ✔️ Skills \
 ✔️ Works\
-✔️ Contact Me\
+✔️ Contact Me
 
 
 To view a live example, **[click here](https://nidhikumari.vercel.app/)**
