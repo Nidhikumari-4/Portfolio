@@ -1,0 +1,36 @@
+.tech_tag {
+    color: #ffd700;
+}
+.text_zone p a {
+    color: #ffd700;
+    text-decoration: underline;
+}
+
+.logos {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+
+    p {
+        margin: 5px 25px;
+        font-size: 60px !important;
+        transition: all 0.4s ease;
+
+        &:hover {
+            transform: scale(1.9);
+        }
+    }
+}
+
+.logos_container {
+    width: 40%;
+    height: 50%;
+    top: 10%;
+    padding-top: 10%;
+    position: absolute;
+    left: 55%;
+    overflow: hidden;
+}

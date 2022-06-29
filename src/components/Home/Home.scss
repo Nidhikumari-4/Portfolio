@@ -1,0 +1,102 @@
+.home_page {
+    .text_zone {
+        position: absolute;
+        left: 10%;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 40%;
+        max-height: 90%;
+    }
+    h1 {
+        color: #fff;
+        font-size: 58px;
+        line-height: 53px;
+        letter-spacing: 2px;
+        margin: 0;
+        font-weight: 400;
+
+        &:before {
+            content: "<h1>";
+            font-family: "La Belle Aurore";
+            color: #ffd700;
+            font-size: 18px;
+            position: absolute;
+            margin-top: -40px;
+            left: -15px;
+            opacity: 0.6;
+        }
+
+        &:after {
+            content: "<h1/>";
+            font-family: "La Belle Aurore";
+            color: #ffd700;
+            font-size: 18px;
+            position: absolute;
+            margin-top: 18px;
+            margin-left: 20px;
+            animation: fadeIn 1s 1.7s backwards;
+            opacity: 0.6;
+        }
+        img {
+            margin-left: 20px;
+            opacity: 0;
+            width: 32px;
+            height: 46px;
+            animation: rotateIn 1s 1.4s linear both;
+        }
+    }
+    h2 {
+        color: #8d8d8d;
+        margin-top: 25px;
+        font-weight: 400;
+        font-size: 13px;
+        font-family: sans-serif;
+        letter-spacing: 3px;
+        animation: fadeIn 1s 1.8s backwards;
+    }
+    .flat_button {
+        color: #ffd700;
+        font-size: 13px;
+        font-weight: 400;
+        letter-spacing: 4px;
+        font-family: sans-serif;
+        text-decoration: none;
+        padding: 10px 18px;
+        border: 1.5px solid #ffd700;
+        margin-top: 25px;
+        float: left;
+        animation: fadeIn 1s 1.8s backwards;
+        white-space: nowrap;
+
+        &:hover {
+            background: #ffd700;
+            color: #333;
+        }
+    }
+}
+.logo_container {
+    z-index: 0;
+    width: 400px;
+    height: 630px;
+    opacity: 1;
+    position: absolute;
+    top: 10%;
+    right: 20%;
+    bottom: 0;
+    left: auto;
+    margin: auto;
+    animation: fadeIn 1s 1.7s backwards;
+
+    .solid_logo {
+        position: absolute;
+        top: auto;
+        right: auto;
+        bottom: auto;
+        left: 0;
+        margin: auto;
+        width: 100%;
+        opacity: 1;
+        transform: rotateZ(20deg) !important;
+        z-index: 1;
+    }
+}
