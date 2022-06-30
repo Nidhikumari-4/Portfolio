@@ -109,7 +109,7 @@
         }
     }
 }
-@media (max-width: 768px) and (min-width: 425px) {
+@media (max-width: 768px) and (min-width: 475px) {
     .page {
         .top_tags {
             top: 70px;
@@ -128,7 +128,7 @@
         }
     }
 }
-@media (max-width: 425px) and (min-width: 375px) {
+@media (max-width: 475px) and (min-width: 375px) {
     .page {
         height: 100%;
         .top_tags {
@@ -136,10 +136,10 @@
         }
         .tags {
             color: #ffd700;
-            left: 70px;
+            left: 23px;
         }
         .bottom_tag_html {
-            margin-left: -30px;
+            margin-left: -12px;
         }
 
         .container {
