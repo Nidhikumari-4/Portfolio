@@ -34,3 +34,16 @@
     left: 55%;
     overflow: hidden;
 }
+
+@media (max-width: 1440px) and (min-width: 1024px) {
+    .page {
+        .skills_page {
+            .text_zone {
+                top: 20%;
+                left: 15%;
+                // max-height: 60%;
+                width: 600px;
+            }
+        }
+    }
+}

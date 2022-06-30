@@ -1,7 +1,7 @@
 .home_page {
     .text_zone {
         position: absolute;
-        left: 10%;
+        left: 13%;
         top: 50%;
         transform: translateY(-50%);
         width: 40%;
@@ -98,5 +98,44 @@
         opacity: 1;
         transform: rotateZ(20deg) !important;
         z-index: 1;
+    }
+}
+@media (max-width: 1024px) and (min-width: 700px) {
+    .home_page {
+        .text_zone {
+            left: 20%;
+            top: 20%;
+            width: 75%;
+        }
+    }
+}
+
+@media (max-width: 700px) and (min-width: 500px) {
+    .logo_container {
+        width: 390px;
+        height: 600px;
+        top: 20%;
+    }
+    .home_page {
+        .text_zone {
+            left: 19%;
+            top: 20%;
+            width: 78%;
+        }
+    }
+}
+@media (max-width: 500px) and (min-width: 375px) {
+    .logo_container {
+        width: 380px;
+        height: 500px;
+        top: 10%;
+        right: -10%;
+    }
+    .home_page {
+        .text_zone {
+            left: 22%;
+            top: 20%;
+            width: 110%;
+        }
     }
 }
