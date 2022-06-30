@@ -241,3 +241,56 @@
         }
     }
 }
+@media (max-width: 380px) and (min-width: 300px) {
+    .nav_bar {
+        background: #181818;
+        width: 100%;
+        height: 62px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 3;
+        min-height: 0;
+
+        .logo {
+            display: block;
+            float: left;
+            padding: 2px 0;
+
+            img {
+                display: block;
+                margin-left: 10px;
+                margin-top: 0px;
+                width: 28px;
+
+                &.sub_logo {
+                    width: 28px;
+                }
+            }
+        }
+        nav {
+            display: flex;
+            justify-content: space-around;
+            width: 42%;
+            left: 50%;
+            margin-left: -28%;
+            height: 60px;
+            margin-top: -5%;
+        }
+        ul {
+            position: static;
+            bottom: 20px;
+            width: auto;
+            display: flex;
+            padding: 0;
+            list-style: none;
+            text-align: center;
+            margin: 10px 10px;
+            float: right;
+
+            li {
+                margin: 0 3px;
+            }
+        }
+    }
+}

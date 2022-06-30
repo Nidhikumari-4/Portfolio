@@ -148,3 +148,23 @@
         }
     }
 }
+@media (max-width: 375px) and (min-width: 300px) {
+    .page {
+        height: 100%;
+        .top_tags {
+            top: 80px;
+        }
+        .tags {
+            color: #ffd700;
+            left: 23px;
+        }
+        .bottom_tag_html {
+            margin-left: -12px;
+        }
+
+        .container {
+            width: 100%;
+            height: 100%;
+        }
+    }
+}
