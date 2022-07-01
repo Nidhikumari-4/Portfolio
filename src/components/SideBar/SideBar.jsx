@@ -1,4 +1,4 @@
-import React from "react";
+// import React, { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import LogoN from "../../assets/images/logo-n.png";
 import LogoSubtitle from "../../assets/images/logo.png";
@@ -9,16 +9,19 @@ import {
   faEnvelope,
   faCog,
   faBriefcase,
+  // faBars,
 } from "@fortawesome/free-solid-svg-icons";
 import {
   faLinkedin,
   faGithub,
   faTwitter,
-  faInstagram,
+  faDiscord,
 } from "@fortawesome/free-brands-svg-icons";
 import "./SideBar.scss";
 
 const SideBar = () => {
+  // const [showMenu, setShowMenu] = useState(false);
+
   return (
     <div className="nav_bar">
       <Link className="logo" to="/">
@@ -72,10 +75,10 @@ const SideBar = () => {
 
         <li>
           <a
-            href="https://www.instagram.com/accounts/emailsignup/?hl=en"
+            href="https://discordapp.com/users/788763471990226984"
             target="_blank"
           >
-            <FontAwesomeIcon icon={faInstagram} />
+            <FontAwesomeIcon icon={faDiscord} />
           </a>
         </li>
       </ul>

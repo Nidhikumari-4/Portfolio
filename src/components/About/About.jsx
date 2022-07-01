@@ -49,7 +49,7 @@ const About = () => {
             people and help others.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a
+            If I need to define myself in one sentence that would be an
             Engineering Student interests in Dancing, Music Listener
             Illustrations lover, and tech-obsessed!!!
           </p>
