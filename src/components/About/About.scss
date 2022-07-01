@@ -130,36 +130,49 @@
             }
         }
         .stage_cube_cont {
-            top: 55%;
+            top: 48%;
             left: 20%;
             width: 70%;
         }
     }
 }
-@media (max-width: 475px) and (min-width: 320px) {
+@media (max-width: 475px) and (min-width: 375px) {
     .page {
-        height: 140%;
-        .top_tags {
-            top: 90px;
-        }
-        .tags {
-            color: #ffd700;
-            left: 23px;
-        }
-        .bottom_tag_html {
-            margin-left: -12px;
-        }
         .about_page {
             .text_zone {
                 left: 10%;
-                top: 30%;
-                width: 450px;
+                top: 35%;
+                width: 350px;
+            }
+            p {
+                margin-top: 10px;
+                font-size: 12px;
             }
         }
         .stage_cube_cont {
-            top: 50%;
-            left: 20%;
-            width: 100%;
+            top: 55%;
+            left: 15%;
+            width: 70%;
+        }
+    }
+}
+@media (max-width: 375px) and (min-width: 300px) {
+    .page {
+        .about_page {
+            .text_zone {
+                left: 10%;
+                top: 35%;
+                width: 350px;
+            }
+            p {
+                margin-top: 10px;
+                font-size: 12px;
+            }
+        }
+        .stage_cube_cont {
+            top: 55%;
+            left: 25%;
+            width: 70%;
         }
     }
 }
