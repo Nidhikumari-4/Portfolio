@@ -1,6 +1,5 @@
 .contact_form {
     width: 100%;
-    margin-top: 20px;
 
     ul {
         padding: 0;
@@ -85,7 +84,7 @@
     position: absolute;
     background: #000;
     top: 50px;
-    right: 30%;
+    right: 20%;
     z-index: 999999;
     width: 240px;
     padding: 20px;
@@ -109,7 +108,7 @@
     float: right;
     width: 53%;
     height: 120%;
-    margin-top: -3.1%;
+    margin-top: -6%;
 }
 
 .leaflet-container {
@@ -119,4 +118,89 @@
     opacity: 0;
     animation: backInRight 1s 1.2s;
     animation-fill-mode: forwards;
+}
+
+@media (max-width: 1024px) and (min-width: 768px) {
+    .page {
+        .contact_page {
+            .text_zone {
+                left: 20%;
+                width: 60%;
+
+                h1 {
+                    left: 18px;
+                }
+            }
+
+            .map_wrap {
+                display: none;
+            }
+
+            .info_map {
+                display: none;
+            }
+        }
+    }
+}
+@media (max-width: 768px) and (min-width: 475px) {
+    .page {
+        .contact_page {
+            .text_zone {
+                left: 10%;
+                width: 80%;
+
+                h1 {
+                    left: 18px;
+                }
+            }
+
+            .map_wrap {
+                display: none;
+            }
+
+            .info_map {
+                display: none;
+            }
+        }
+    }
+}
+@media (max-width: 475px) and (min-width: 375px) {
+    .page {
+        .contact_page {
+            .text_zone {
+                left: 10%;
+                width: 80%;
+
+                h1 {
+                    left: 18px;
+                }
+            }
+            .map_wrap {
+                display: none;
+            }
+            .info_map {
+                display: none;
+            }
+        }
+    }
+}
+@media (max-width: 375px) and (min-width: 300px) {
+    .page {
+        .contact_page {
+            .text_zone {
+                left: 10%;
+                width: 80%;
+                h1 {
+                    font-size: 48px;
+                    left: 18px;
+                }
+            }
+            .map_wrap {
+                display: none;
+            }
+            .info_map {
+                display: none;
+            }
+        }
+    }
 }
