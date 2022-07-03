@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://nidhikumari.vercel.app/">
-  <img width="2040" alt="Device - Macbook Air" src="https://user-images.githubusercontent.com/77065920/176469357-6bd74b0d-6206-494e-9296-f0b2edeab524.png">
+<img width="2277" alt="Group 1" src="https://user-images.githubusercontent.com/77065920/177051557-889ef12c-2d60-4256-a9a2-4c18356a77be.png">
   </a>
 </div>
   </div>
@@ -25,6 +25,7 @@
   
 
 ## Sections 📚
+
 
 ✔️ Home\
 ✔️ About\
