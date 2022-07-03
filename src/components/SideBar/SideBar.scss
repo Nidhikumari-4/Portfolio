@@ -207,11 +207,12 @@
             img {
                 display: block;
                 margin-left: 10px;
-                margin-top: 0px;
-                width: 28px;
+                margin-top: 10px;
+                width: 22px;
 
                 &.sub_logo {
-                    width: 28px;
+                    width: 22px;
+                    margin-top: -5px;
                 }
             }
         }
@@ -223,6 +224,36 @@
             margin-left: -28%;
             height: 60px;
             margin-top: -5%;
+
+            display: flex;
+            justify-content: space-around;
+            width: 42%;
+            left: 50%;
+            margin-left: -28%;
+            height: 60px;
+            margin-top: -5%;
+
+            a {
+                font-size: 21px;
+                line-height: 40px;
+
+                &:hover {
+                    color: #ffd700;
+
+                    svg {
+                        opacity: 1;
+                    }
+
+                    &:after {
+                        opacity: 0;
+                    }
+                }
+
+                &:after {
+                    font-size: 1px;
+                    opacity: 0;
+                }
+            }
         }
         ul {
             position: static;
@@ -237,6 +268,9 @@
 
             li {
                 margin: 0 3px;
+                a {
+                    font-size: 16px;
+                }
             }
         }
     }
@@ -295,7 +329,6 @@
 
                 &:after {
                     font-size: 1px;
-
                     opacity: 0;
                 }
             }
