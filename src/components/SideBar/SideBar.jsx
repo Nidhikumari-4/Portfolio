@@ -14,6 +14,7 @@ import {
   faGithub,
   faTwitter,
   faDiscord,
+  faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 import "./SideBar.scss";
 
@@ -66,6 +67,12 @@ const SideBar = () => {
         <li>
           <a href="https://twitter.com/nidhikumari_4" target="_blank">
             <FontAwesomeIcon icon={faTwitter} />
+          </a>
+        </li>
+
+        <li>
+          <a href="https://instagram.com/nidhii_singh._" target="_blank">
+            <FontAwesomeIcon icon={faInstagram} />
           </a>
         </li>
 
