@@ -54,7 +54,7 @@ const About = () => {
             Illustrations lover, and tech-obsessed!!!
           </p>
           <div className="flat_button">
-            <a target="_blank" href="/Nidhi-Resume.pdf">
+            <a target="_blank" href="/NidhiKumari-Resume.pdf">
               RESUME
             </a>
           </div>
