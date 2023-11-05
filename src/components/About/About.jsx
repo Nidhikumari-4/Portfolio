@@ -33,12 +33,12 @@ const About = () => {
               idx={15}
             />
           </h1>
-          <p1>
+          <p>
             Hi! 👋 I'm Nidhi, a engineering sophomore pursuing BTech in
             Information Technology. I am a passionate self-learner, Open source
             enthusiast, exploring and building projects 👨‍💻 and making things
             simple using various technologies.
-          </p1>
+          </p>
           <p align="LEFT">
             I'm very ambitious front-end developer looking for a role in
             established company with the opportunity to work with the latest
@@ -54,7 +54,7 @@ const About = () => {
             Illustrations lover, and tech-obsessed!!!
           </p>
           <div className="flat_button">
-            <a target="_blank" href="/Nidhi-Resume.pdf">
+            <a target="_blank" href="/Nidhi_Resume.pdf">
               RESUME
             </a>
           </div>
