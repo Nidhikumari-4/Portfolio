@@ -15,16 +15,16 @@
   },
   {
     "id": "three",
-    "cover": "https://github-production-user-asset-6210df.s3.amazonaws.com/77065920/335877979-9197b8dc-cdc8-4366-856f-35dd327b0e52.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240602T153055Z&X-Amz-Expires=300&X-Amz-Signature=ad27d6cc46b51e03f87da8a4a6a3f77741e4fdb2f14c2f5d3990c14a5be54d10&X-Amz-SignedHeaders=host&actor_id=77065920&key_id=0&repo_id=783872630",
-    "title": "REDDITIFY",
-    "description": "React,Chakra UI, Firebase",
-    "url": "https://reddit-clonee-app.vercel.app/"
-  },
-  {
-    "id": "four",
-    "cover": "https://github-production-user-asset-6210df.s3.amazonaws.com/77065920/335878168-01d94575-e02a-4be9-8e5a-aa0e430b81f6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240602T153253Z&X-Amz-Expires=300&X-Amz-Signature=ecfadecb1b2e78895055be50ca946abf91628429c6b56c56f8fdd2f861aa8c60&X-Amz-SignedHeaders=host&actor_id=77065920&key_id=0&repo_id=783872630",
+    "cover": "https://github.com/Nidhikumari-4/Portfolio/assets/77065920/1da27eec-f2ac-4f27-a145-fa1ea0184812",
     "title": "VIDEO HUB",
     "description": "React, Material UI, Rapid API",
     "url": "https://youtubee.vercel.app/"
+  },
+  {
+    "id": "four",
+    "cover": "https://github.com/Nidhikumari-4/Portfolio/assets/77065920/cb42aabc-7d04-4932-a621-433b5a9b40c7",
+    "title": "REDDITIFY",
+    "description": "React,Chakra UI, Firebase",
+    "url": "https://reddit-clonee-app.vercel.app/"
   }
 ]
