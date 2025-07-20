@@ -40,34 +40,56 @@ const Skills = () => {
             />
           </h1>
           <p>
-            I am a front-end web developer well versed in technologies like
-            <span class="tech_tag"> HTML5</span>,
-            <span class="tech_tag"> CSS3</span>,
-            <span class="tech_tag"> JavaScript</span>,
-            <span class="tech_tag"> React</span>,
-            <span class="tech_tag"> Bootstrap</span>,
-            <span class="tech_tag"> Tailwind Css</span>,
-            <span class="tech_tag"> Git</span>,
-            <span class="tech_tag"> Sass/Scss</span>,etc.
+            Proficient in modern frontend technologies such as {" "}
+            <span class="tech_tag">React.js</span>,
+            <span class="tech_tag">Next.js</span>,
+            <span class="tech_tag">Angular</span>,
+            and styling frameworks including {" "}
+            <span class="tech_tag">Tailwind CSS</span>,
+            <span class="tech_tag">Bootstrap</span>,
+            <span class="tech_tag">Sass/SCSS</span>,
+            <span class="tech_tag">Material UI</span>.
           </p>
+
           <p>
-            I’m not a designer but I have a good sense of aesthetics, and
-            experience in responsive, web design. I put special effort into
-            optimizing my code and providing the best user experience. I would
-            love to give you any kind of support also after the project's
-            completion.
+            Skilled in backend development using {" "}
+            <span class="tech_tag">Node.js</span> with {" "}
+            <span class="tech_tag">MongoDB</span> and {" "}
+            <span class="tech_tag">PostgreSQL</span>, and experienced in integrating cloud platforms like {" "}
+            <span class="tech_tag">Firebase</span> and {" "}
+            <span class="tech_tag">Vercel</span> for seamless deployment and scalability.
           </p>
+
+          <p>
+            Strong programming foundation in {" "}
+            <span class="tech_tag">C++</span>, {" "}
+            <span class="tech_tag">Java</span>, {" "}
+            <span class="tech_tag">JavaScript</span>, {" "}
+            <span class="tech_tag">TypeScript</span>, and {" "}
+            <span class="tech_tag">Python</span>. Adapt at using tools such as {" "}
+            <span class="tech_tag">Git</span>, {" "}
+            <span class="tech_tag">GitHub</span>, {" "}
+            <span class="tech_tag">Postman</span>, {" "}
+            <span class="tech_tag">Figma</span>, and {" "}
+            <span class="tech_tag">VS Code</span> to support collaborative development and efficient workflow.
+          </p>
+
+          <p>
+            Also familiar with {" "}
+            <span class="tech_tag">React Native</span> for cross-platform mobile development.
+          </p>
+
           <p>
             Visit my
             <a
               target="_blank"
-              href="https://www.linkedin.com/in/nidhikumari-4/"
+              href="https://www.linkedin.com/in/nidhikumari-4/" rel="noreferrer"
             >
               {" "}
               LinkedIn{" "}
             </a>
             and
-            <a target="_blank" href="https://github.com/Nidhikumari-4">
+            <a target="_blank" href="https://github.com/Nidhikumari-4" rel="noreferrer">
               {" "}
               Github{" "}
             </a>

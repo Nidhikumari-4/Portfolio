@@ -34,25 +34,17 @@ const About = () => {
             />
           </h1>
           <p>
-            Hi! 👋 I'm Nidhi, a engineering sophomore pursuing BTech in
-            Information Technology. I am a passionate self-learner, Open source
-            enthusiast, exploring and building projects 👨‍💻 and making things
-            simple using various technologies.
-          </p>
-          <p align="LEFT">
-            I'm very ambitious front-end developer looking for a role in
-            established company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            Hi! 👋 I'm Nidhi, a results-driven Software Engineer with 1 year of experience in software development, secure software practices, and
+            architecture-driven thinking. Skilled in leading secure application design, integrating third-party components, and
+            collaborating across teams to deliver scalable, maintainable, and compliant solutions. Experienced in code reviews,
+            documentation, and performance monitoring, with a strong foundation in modern frameworks, CI/CD practices, and emerging
+            tech trends like AI-driven enhancements.
           </p>
           <p>
             I'm quietly confident, naturally curious, and love to interact with
             people and help others.
           </p>
-          <p>
-            If I need to define myself in one sentence that would be an
-            Engineering Student interests in Dancing, Music Listener
-            Illustrations lover, and tech-obsessed!!!
-          </p>
+
           <div className="flat_button">
             <a target="_blank" href="/Nidhi-Resume.pdf">
               RESUME

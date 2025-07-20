@@ -12,17 +12,21 @@ const Home = () => {
   const [letterClass, setLetterClass] = useState("text_animate");
   const nameArray = ["i", "d", "h", "i", ","];
   const jobArray = [
-    "w",
-    "e",
-    "b",
-    " ",
-    "d",
-    "e",
-    "v",
-    "e",
-    "l",
+    "S",
     "o",
-    "p",
+    "f",
+    "t",
+    "w",
+    "a",
+    "r",
+    "e",
+    " ",
+    "E",
+    "n",
+    "g",
+    "i",
+    "n",
+    "e",
     "e",
     "r",
     ".",
@@ -58,10 +62,11 @@ const Home = () => {
               idx={22}
             />
           </h1>
-          <h2>Front End Developer</h2>
-          <Link to="/contact" className="flat_button">
-            CONTACT ME
-          </Link>
+          <span>
+            <Link to="/contact" className="flat_button">
+              CONTACT ME
+            </Link>
+          </span>
         </div>
       </div>
       <div className="logo_container">
