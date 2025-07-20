@@ -46,7 +46,7 @@ const About = () => {
           </p>
 
           <div className="flat_button">
-            <a target="_blank" href="/Nidhi_Resume.pdf">
+            <a target="_blank" href="https://drive.google.com/file/d/17jacw5YV3ORbHOckY8MCCYIRg6XnaZAZ/view?usp=sharing" rel="noreferrer">
               RESUME
             </a>
           </div>
