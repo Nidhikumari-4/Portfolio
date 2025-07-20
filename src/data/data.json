@@ -1,31 +1,30 @@
 [
   {
-    "id":"one",
+    "id": "one",
     "cover": "https://user-images.githubusercontent.com/77065920/176479569-7fec705f-6cc4-4ddd-a9da-0501ff30dbb5.jpg",
     "title": "PORTFOLIO",
-    "description": "React, JSX, SCSS",
+    "description": "React, SCSS, 3D CSS animations",
     "url": "https://nidhikumari.vercel.app/"
   },
   {
-    "id":"two",
+    "id": "two",
     "cover": "https://user-images.githubusercontent.com/77065920/175949916-e08ec179-3c1a-4ffe-966a-3d3dec0445d0.jpg",
     "title": "SHOPPY",
-    "description": "React, JSX, Tailwind",
+    "description": "React, Tailwind CSS, Syncfusion",
     "url": "https://shoppy-brown.vercel.app/"
   },
   {
-    "id":"three",
-    "cover": "https://user-images.githubusercontent.com/77065920/176023520-04ea435c-9f26-4dd4-b8a0-072c49238cde.jpg",
-    "title": "UCART",
-    "description": "React, JSX",
-    "url": "https://cart-topaz.vercel.app/"
+    "id": "three",
+    "cover": "https://github.com/Nidhikumari-4/Portfolio/assets/77065920/1da27eec-f2ac-4f27-a145-fa1ea0184812",
+    "title": "VIDEO HUB",
+    "description": "React, Material UI, Rapid API",
+    "url": "https://youtubee.vercel.app/"
   },
-  
   {
-    "id":"four",
-    "cover": "https://user-images.githubusercontent.com/77065920/176481210-58fde30e-00e5-4b53-9c81-21100d5def88.jpg",
-    "title": "FOODEX",
-    "description": "Html, CSS, JavaScript",
-    "url": "https://food-ex.vercel.app/"
+    "id": "four",
+    "cover": "https://github.com/Nidhikumari-4/Portfolio/assets/77065920/cb42aabc-7d04-4932-a621-433b5a9b40c7",
+    "title": "REDDITIFY",
+    "description": "React,Chakra UI, Firebase",
+    "url": "https://reddit-clonee-app.vercel.app/"
   }
 ]

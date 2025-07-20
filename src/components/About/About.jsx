@@ -46,7 +46,7 @@ const About = () => {
           </p>
 
           <div className="flat_button">
-            <a target="_blank" href="/Nidhi-Resume.pdf">
+            <a target="_blank" href="/Nidhi_Resume.pdf">
               RESUME
             </a>
           </div>
